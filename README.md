@@ -1,7 +1,9 @@
 # Interactive KBQA MCP
 
-[![ACL 2024 paper](https://img.shields.io/badge/Paper-ACL%202024-1f6feb.svg)](https://aclanthology.org/2024.acl-long.569/)
-[![Original GitHub repository](https://img.shields.io/badge/GitHub-Original%20repo-24292f.svg?logo=github)](https://github.com/JimXiongGM/Interactive-KBQA)
+<p align="center">
+  <a href="https://aclanthology.org/2024.acl-long.569/"><img src="https://img.shields.io/badge/Paper-ACL%202024-1f6feb.svg" alt="ACL 2024 paper"></a>
+  <a href="https://github.com/JimXiongGM/Interactive-KBQA"><img src="https://img.shields.io/badge/GitHub-Original%20repo-24292f.svg?logo=github" alt="Original GitHub repository"></a>
+</p>
 
 This repository brings together and upgrades the knowledge-base tools introduced in Interactive-KBQA, published at ACL 2024.
 
