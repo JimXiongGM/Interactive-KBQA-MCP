@@ -1,0 +1,9 @@
+/data/
+/log/
+/output/
+/.cache/
+/.venv/
+__pycache__/
+*.py[cod]
+/*.tar.zst
+/*.tar.zst.partial
